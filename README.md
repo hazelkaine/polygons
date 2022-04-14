@@ -1,3 +1,3 @@
 # polygons
 
-//here are notes not how to make polygon art;
+//here are notes on how to make polygon art;
